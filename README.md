@@ -22,3 +22,14 @@ Plaintext : B E L A J A R K R I P T O G R A F I
 Ciphertext : E G C J A J P B P S L T K N P J I S
 
 =======================================================================
+# Polyalphabet Tiga Kunci
+
+Plaintext : CEGAH PEGAWAI KPK
+
+Kunci 1 : MERDEKA
+
+Kunci 2 : INDONESIA
+
+Kunci 3 : PUTIH MERAH
+
+Ciphertext : L E G B I D E G B W B O U D U
