@@ -1,7 +1,9 @@
 # Polyalphabet 1 Kunci
 
 Dengan abjad A - Z
+
 Plaintext  : BELAJAR KRIPTOGRAFI
+
 KEY        : MERDEKA
 
   Ciphertext  
